@@ -127,7 +127,7 @@ ecommerce-website-builder/
 └── Auth Section (2 files)
     ├── login.php        # Sign in
     └── logout.php       # Sign out
-    
+```
 ##  idea for website E-com ingrate with payment 
 ## ingrate with Full ERP 
 
