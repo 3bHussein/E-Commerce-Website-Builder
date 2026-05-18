@@ -92,28 +92,41 @@
 ### 🏠 **Installer Wizard**
 
 
-📁 ecommerce-website-builder/
-│
-├── 📄 installer.php          # 🚀 Main installer file (DELETE after install)
-├── 📄 config.php             # ⚙️ Database configuration (auto-generated)
-│
-├── 🏪 Frontend Files
-│   ├── 📄 index.php          # 🏠 Homepage
-│   ├── 📄 shop.php           # 🛍️ Product listing
-│   ├── 📄 product.php        # 📦 Product details
-│   ├── 📄 cart.php           # 🛒 Shopping cart
-│   └── 📄 checkout.php       # 💳 Checkout process
-│
-├── 👑 Admin Files
-│   └── 📄 admin.php          # 📊 Admin dashboard
-│
-├── 🔐 Authentication
-│   ├── 📄 login.php          # 🔑 User login
-│   └── 📄 logout.php         # 🚪 Logout handler
-│
-└── 📚 Documentation
-    └── 📄 README.md          # 📖 This file
+ 
+### 📁 **File Descriptions**
 
+| File | Purpose | Type |
+|------|---------|------|
+| `installer.php` | Main installation wizard (delete after setup) | 🔧 Installer |
+| `config.php` | Database connection settings (auto-generated) | ⚙️ Configuration |
+| `index.php` | Store homepage with featured products | 🏠 Frontend |
+| `shop.php` | Product catalog listing page | 🛍️ Frontend |
+| `product.php` | Individual product details page | 📦 Frontend |
+| `cart.php` | Shopping cart management | 🛒 Frontend |
+| `checkout.php` | Order checkout process | 💳 Frontend |
+| `admin.php` | Admin control panel | 👑 Backend |
+| `login.php` | User authentication page | 🔐 Auth |
+| `logout.php` | Session destroyer | 🚪 Auth |
+| `README.md` | Project documentation | 📚 Docs |
+
+### 🗂️ **Directory Structure Details**
+
+```yaml
+ecommerce-website-builder/
+├── Root Files (6 files)
+│   ├── installer.php    # Run this first!
+│   ├── config.php       # Created during installation
+│   ├── index.php        # Entry point
+│   ├── shop.php         # Browse products
+│   ├── cart.php         # View cart
+│   └── checkout.php     # Complete purchase
+│
+├── Admin Section (1 file)
+│   └── admin.php        # Manage everything
+│
+└── Auth Section (2 files)
+    ├── login.php        # Sign in
+    └── logout.php       # Sign out
     
 ##  idea for website E-com ingrate with payment 
 ## ingrate with Full ERP 
