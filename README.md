@@ -91,6 +91,30 @@
 
 ### 🏠 **Installer Wizard**
 
+
+📁 ecommerce-website-builder/
+│
+├── 📄 installer.php          # 🚀 Main installer file (DELETE after install)
+├── 📄 config.php             # ⚙️ Database configuration (auto-generated)
+│
+├── 🏪 Frontend Files
+│   ├── 📄 index.php          # 🏠 Homepage
+│   ├── 📄 shop.php           # 🛍️ Product listing
+│   ├── 📄 product.php        # 📦 Product details
+│   ├── 📄 cart.php           # 🛒 Shopping cart
+│   └── 📄 checkout.php       # 💳 Checkout process
+│
+├── 👑 Admin Files
+│   └── 📄 admin.php          # 📊 Admin dashboard
+│
+├── 🔐 Authentication
+│   ├── 📄 login.php          # 🔑 User login
+│   └── 📄 logout.php         # 🚪 Logout handler
+│
+└── 📚 Documentation
+    └── 📄 README.md          # 📖 This file
+
+    
 ##  idea for website E-com ingrate with payment 
 ## ingrate with Full ERP 
 
