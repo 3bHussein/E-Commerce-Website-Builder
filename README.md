@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
-  <h1>🔧 ECU WARRIOR ERP COMMERCE SUITE</h1>
+  <h1>🔧 E-COMMERCE ERP COMMERCE SUITE</h1>
   <h3>Professional B2B + B2C ERP, CRM, Inventory, Procurement & E-Commerce Platform</h3>
 
   <p>
@@ -29,7 +29,7 @@
 
 ## 📖 Overview
 
-**ECU Warrior ERP Commerce Suite** is a PHP and MySQL based business platform that combines:
+**E-commerce ERP Commerce Suite** is a PHP and MySQL based business platform that combines:
 
 - A modern **responsive e-commerce storefront**
 - A complete **ERP command center**
@@ -603,7 +603,7 @@ MIT License
 
 <div align="center">
 
-  <h3>🔧 ECU Warrior ERP Commerce Suite</h3>
+  <h3>🔧 E-commerce ERP Commerce Suite</h3>
   <p><strong>Built to manage products, sales, customers, inventory, procurement, finance, and growth from one platform.</strong></p>
 
 </div>
